@@ -56,5 +56,5 @@ Google같은 경우는 웹페이지를 구성하는 콘텐츠와 연결 링크�
 <hr/>
 
 ### 출처
-https://www.bloter.net/newsView/blt201805130001
+https://www.bloter.net/newsView/blt201805130001   
 https://developers.google.com/search/docs/beginner/seo-starter-guide?hl=ko
