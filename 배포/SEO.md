@@ -52,3 +52,9 @@ Google같은 경우는 웹페이지를 구성하는 콘텐츠와 연결 링크�
 
 **'롱테일 키워드'** 검색 의도가 구체적으로 표현된 3개 단어 이상의 조합 키워드를 말한다.
 일반적인 키워드에 비해 검색량이 비교적으로 적지만 경쟁사가 잘 사용하지 않을 확률이 높아, 롱테일 키워드를 잘 활용한다면 큰 노출 효과를 볼 수 있다.
+
+<hr/>
+
+### 출처
+https://www.bloter.net/newsView/blt201805130001
+https://developers.google.com/search/docs/beginner/seo-starter-guide?hl=ko
